@@ -1,0 +1,16 @@
+Power BI Project :
+This repository contains the code and documentation for my Power BI project. The project focuses on Survey Breadown.
+
+Project Overview
+In this Power BI project, I performed the following tasks:
+
+Data Preparation: I obtained the raw data from kaggle and performed necessary data cleaning and transformation to prepare it for analysis in Power BI.
+
+Data Modeling: I created a well-structured data model in Power BI by defining relationships between tables, establishing hierarchies, and creating calculated measures to support data analysis.
+
+Data Visualization: I designed visually appealing and interactive dashboards and reports to present the data insights effectively.
+ I utilized various visualizations, such as charts, graphs, and maps, to highlight key trends and patterns.
+
+Advanced Analytics: Leveraging the power of Power BI, I incorporated advanced analytics techniques, such as forecasting, clustering, or sentiment analysis, to gain deeper insights from the data.
+
+Performance Optimization: I fine-tuned the Power BI project to ensure optimal performance, including improving data refresh speed, enhancing visual responsiveness, and optimizing DAX formulas.
